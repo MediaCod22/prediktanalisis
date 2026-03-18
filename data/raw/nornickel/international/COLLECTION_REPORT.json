@@ -1,0 +1,78 @@
+{
+  "collection_summary": {
+    "task": "Nornickel Norilsk Fuel Spill - International Sources",
+    "collection_date": "2025-01-21",
+    "total_articles": 85,
+    "output_directory": "/home/z/my-project/data/raw/nornickel/international/"
+  },
+  "search_queries_used": [
+    "Nornickel Norilsk diesel spill May 2020",
+    "Norilsk oil spill environmental disaster Arctic",
+    "Nornickel Putin criticism Potanin fine",
+    "Nornickel shareholder conflict Rusal Deripaska",
+    "Russia Arctic permafrost infrastructure failure"
+  ],
+  "target_sources": [
+    "Reuters",
+    "AP News",
+    "BBC News",
+    "CNN",
+    "Financial Times",
+    "Bloomberg",
+    "The Guardian",
+    "Washington Post",
+    "Wall Street Journal",
+    "The Economist",
+    "The Independent",
+    "Al Jazeera",
+    "Deutsche Welle",
+    "France 24",
+    "Newsweek",
+    "Time",
+    "Forbes",
+    "New York Times",
+    "The Times",
+    "Foreign Policy"
+  ],
+  "narrative_stage_distribution": {
+    "N0_pre_spill_routine": 0,
+    "N1_initial_incident_reports": 6,
+    "N2_investigation_scope_revealed": 20,
+    "N3_putin_criticism_blame_arrests": 13,
+    "N4_corporate_conflict_systemic_issues": 30,
+    "N5_fine_resolution": 16
+  },
+  "source_distribution": {
+    "Reuters": 21,
+    "BBC News": 11,
+    "The Guardian": 11,
+    "Financial Times": 9,
+    "Bloomberg": 7,
+    "AP News": 4,
+    "CNN": 4,
+    "The Independent": 3,
+    "The Economist": 3,
+    "Wall Street Journal": 2,
+    "The Times": 1,
+    "Washington Post": 1,
+    "Forbes": 1,
+    "Al Jazeera": 1,
+    "Deutsche Welle": 1,
+    "France 24": 1,
+    "Newsweek": 1,
+    "Time": 1,
+    "New York Times": 1,
+    "Foreign Policy": 1
+  },
+  "date_range": {
+    "earliest": "2020-06-04",
+    "latest": "2020-06-22"
+  },
+  "file_naming_convention": "nn_int_XXX.json (001-085)",
+  "notes": [
+    "Articles cover the complete narrative arc from initial spill (May 29, 2020) to record fine and resolution",
+    "All articles from major international media outlets",
+    "Narrative stages annotated according to research framework",
+    "URLs provided for all articles; content_available flag indicates accessibility"
+  ]
+}

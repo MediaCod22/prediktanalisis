@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.who.int/emergencies/situations/mpox-outbreak",
+    "name": "Mpox outbreak - World Health Organization (WHO)",
+    "snippet": "A global outbreak of mpox began in May 2022 and continues to this day. In recent months, cases have been increasing in the Democratic Republic of the Congo. A ...",
+    "host_name": "www.who.int",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cdc.gov/monkeypox/situation-summary/index.html",
+    "name": "Monkeypox in the United States and Around the World - CDC",
+    "snippet": "Since November 2024, there have been 12 reported cases of clade I monkeypox in the United States. These cases were in people who had recently traveled to areas ...",
+    "host_name": "www.cdc.gov",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.ecdc.europa.eu/en/news-events/mpox-epidemiological-update-monkeypox-2-september-2024",
+    "name": "Week 35/2024: Mpox due to monkeypox virus clade I - ECDC",
+    "snippet": "102 977 confirmed cases of mpox due to MPXV clade I and clade II, including 219 deaths, have been reported by 121 countries globally, according to WHO.",
+    "host_name": "www.ecdc.europa.eu",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11720770",
+    "name": "The 2024 Public Health Emergency of International Concern - PMC",
+    "snippet": "From January 1 to September 23, 2024, 13 African countries have reported 35,341 cases of mpox (3,331 confirmed; 32,010 suspected) and 840 deaths.",
+    "host_name": "pmc.ncbi.nlm.nih.gov",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.europeanpharmaceuticalreview.com/article/232778/mpox-update-august-2024",
+    "name": "Mpox update - August 2024 - European Pharmaceutical Review",
+    "snippet": "This article discusses the impact of the recent mpox emergency, highlighting the industry's response and potential vaccine candidates.",
+    "host_name": "www.europeanpharmaceuticalreview.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00530-9/fulltext",
+    "name": "The global alarm bell is ringing due to the threat of potential severe",
+    "snippet": "WHO reported that as of the end of June, 2024, the multicountry mpox outbreak had caused a total of 99 176 laboratory-confirmed cases.",
+    "host_name": "www.thelancet.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.biomerieux.com/corp/en/blog/infectious-diseases/Global-Response-2024-Mpox-Outbreak-Need-Enhanced-Diagnostics-Equitable-Resource-Distribution.html",
+    "name": "Global Response to the 2024 Mpox Outbreak: Need for Enhanced",
+    "snippet": "In 2024, the Democratic Republic of the Congo (DRC) has reported over 21,000 cases and over 600 deaths related to clade I mpox, with the ...",
+    "host_name": "www.biomerieux.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.kff.org/global-health-policy/the-current-international-mpox-emergency-and-the-u-s-role-an-explainer",
+    "name": "The Current International Mpox Emergency and the U.S. Role - KFF",
+    "snippet": "No cases of clade I mpox have been identified in the U.S. as of September 26, 2024, and the CDC estimates the risk to the general public in the ...",
+    "host_name": "www.kff.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.npr.org/sections/goats-and-soda/2024/08/14/g-s1-16977/mpox-public-health-emergency-world-health-organization-who",
+    "name": "WHO declares 2024 mpox surge a 'public health emergency  - NPR",
+    "snippet": "The World Health Organization has declared mpox a public health emergency of international concern. Cases of mpox — previously called monkeypox ...",
+    "host_name": "www.npr.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.who.int/docs/default-source/coronaviruse/situation-reports/20240812_mpox_external-sitrep_-35.pdf%3Fsfvrsn%3Dee6307a_3%26download%3Dtrue",
+    "name": "[PDF] Multi-country outbreak of mpox - World Health Organization (WHO)",
+    "snippet": "In June 2024 (latest complete monthly disease surveillance data available), a total of 934 new laboratory- confirmed cases of mpox and four ...",
+    "host_name": "www.who.int",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

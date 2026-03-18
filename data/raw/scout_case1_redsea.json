@@ -1,0 +1,58 @@
+{
+  "case_id": "redsea_shipping",
+  "case_name": "Красное море / кризис судоходства",
+  "case_type": "global",
+  "queries_tested": [
+    "Red Sea shipping crisis Houthi attacks timeline 2023 2024",
+    "Red Sea crisis Houthi missiles drones",
+    "Suez Canal shipping disruption 2024",
+    "Operation Prosperity Guardian timeline"
+  ],
+  "peak_date": "2024-01-12",
+  "year_window": {"start": "2023-01-01", "end": "2024-01-12"},
+  "three_month_window": {"start": "2023-10-12", "end": "2024-01-12"},
+  "one_month_window": {"start": "2023-12-12", "end": "2024-01-12"},
+  "post_window": {"start": "2024-01-13", "end": "2024-03-13"},
+  "signal_dates": [
+    {"date": "2023-10-19", "type": "first_attack", "description": "Первые атаки хуситов на суда"},
+    {"date": "2023-11-19", "type": "escalation", "description": "Захват судна Galaxy Leader"},
+    {"date": "2023-12-09", "type": "international_response", "description": "Операция Prosperity Guardian объявлена"},
+    {"date": "2024-01-11", "type": "peak", "description": "Удары США/Британии по позициям хуситов"},
+    {"date": "2024-01-26", "type": "crisis_point", "description": "Ракетный удар по танкеру Marlin Luanda"},
+    {"date": "2024-02-22", "type": "sustained", "description": "Продолжающиеся атаки, расширение зоны"}
+  ],
+  "related_entities": [
+    "Houthi movement (Ansar Allah)",
+    "Yemen",
+    "US Central Command",
+    "Suez Canal Authority",
+    "Maersk",
+    "MSC (Mediterranean Shipping Company)",
+    "Iran",
+    "Israel",
+    "United Kingdom",
+    "Bab el-Mandeb"
+  ],
+  "related_terms": [
+    "shipping disruption",
+    "container rates",
+    "maritime security",
+    "supply chain crisis",
+    "Red Sea blockade",
+    "anti-ship missiles",
+    "drone attacks",
+    "Gulf of Aden",
+    "Suez Canal traffic",
+    "insurance premiums"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "До октября 2023 - рутинное судоходство через Красное море",
+    "N1_weak_problematization": "Октябрь 2023 - первые атаки, локальный контекст",
+    "N2_sustained_problematization": "Ноябрь-декабрь 2023 - системные атаки, захват судов",
+    "N3_personalization": "Декабрь 2023 - связь с Ираном, ответственность хуситов",
+    "N4_systemic_crisis": "Январь 2024 - международная военная операция, глобальное влияние на логистику",
+    "N5_resolution": "Февраль-март 2024 - стабилизация на новом уровне, перенаправление маршрутов"
+  },
+  "tone_shift_hypothesis": "Резкий переход от нейтрального к крайне негативному тону в ноябре-декабре 2023. Пик негатива в январе 2024 связан с эскалацией насилия и экономическими последствиями.",
+  "collection_recommendation": "Фокус на период ноябрь 2023 - февраль 2024. Российские медиа: 10-15% (реакция на влияние на цепочки поставок). Приоритет: морские и логистические издания."
+}

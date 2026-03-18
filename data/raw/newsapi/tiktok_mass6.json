@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://www.theguardian.com/technology/2022/nov/07/tiktoks-china-bytedance-data-concerns",
+    "name": "TikTok's ties to China: why concerns over your data are here to stay",
+    "snippet": "As TikTok's influence grows, and geopolitical tensions between the US and China remain, concerns about data and privacy are likely to stay.",
+    "host_name": "www.theguardian.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.bbc.com/news/technology-64797355",
+    "name": "Is TikTok really a danger to the West? - BBC",
+    "snippet": "1. TikTok collects an 'excessive' amount of data · 2. TikTok could be used by the Chinese government to spy on users · 3. TikTok could be used as ...",
+    "host_name": "www.bbc.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wsj.com/tech/tiktok-pledged-to-protect-u-s-data-1-5-billion-later-its-still-struggling-cbccf203",
+    "name": "TikTok Struggles to Protect U.S. Data From Its China Parent - WSJ",
+    "snippet": "Video-sharing app says it has walled off American data, but employees say data is still sometimes shared with its China-based parent.",
+    "host_name": "www.wsj.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.reddit.com/r/privacy/comments/1i3flmn/what_exactly_is_the_security_concern_with_tiktok",
+    "name": "What exactly is the security concern with TikTok and China? : r/privacy",
+    "snippet": "The concern is that, under Chinese law, ByteDance could be forced to share this data with the Chinese Communist Party. TikTok's algorithm is ... ELI5: What is the real threat/worry with China collecting all our data ... For those who thought the TikTok ban was simply about data ... More results from www.reddit.com",
+    "host_name": "www.reddit.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://theconversation.com/concerns-over-tiktok-feeding-user-data-to-beijing-are-back-and-theres-good-evidence-to-support-them-186211",
+    "name": "Concerns over TikTok feeding user data to Beijing are back",
+    "snippet": "TikTok has admitted its US-stored data are in fact accessible from China, subject to unspecified security protocols at the US end.",
+    "host_name": "theconversation.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://thehill.com/policy/technology/5509990-tiktok-china-security-concerns",
+    "name": "TikTok Deal Raises Concerns Over China Algorithm Use - The Hill",
+    "snippet": "Rep. John Moolenaar raises concerns about TikTok's reliance on a Chinese algorithm as the Trump administration nears a deal on the app.\nRep. John Moolenaar (R-Mich.), chair of the House Select Committee on the Chinese Communist Party, raised concerns Wednesday about the ongoing reliance of a potential TikTok spinoff on an...",
+    "host_name": "thehill.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://epic.org/tiktok-is-not-the-only-problem",
+    "name": "TikTok is Not the Only Problem - EPIC",
+    "snippet": "There is no evidence that China has accessed this data to date and TikTok's CEO stated that the company would refuse such requests, but the ...",
+    "host_name": "epic.org",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cnn.com/2023/03/24/tech/tiktok-ban-national-security-hearing",
+    "name": "TikTok collects a lot of data. But that's not the main reason officials",
+    "snippet": "After TikTok CEO Shou Chew testified for more than five hours on Thursday before a Congressional committee, one thing was clear: US ...",
+    "host_name": "www.cnn.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.cisecurity.org/insights/blog/tiktok-influence-ops-data-practices-threaten-us-security",
+    "name": "TikTok: Influence Ops, Data Practices Threaten U.S. Security",
+    "snippet": "The MS-ISAC CTI team assesses that TikTok, the widely popular video-sharing app, poses a risk to users and U.S. security.",
+    "host_name": "www.cisecurity.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.congress.gov/crs_external_products/IN/PDF/IN12131/IN12131.1.pdf",
+    "name": "TikTok: Recent Data Privacy and National Security Concerns",
+    "snippet": "Critics allege the government of the People’s Republic of China (PRC) influences ByteDance and may control content shown to users or compel TikTok to turn over user data in accordance with various PRC laws that govern cyber and data security. TikTok has denied these allegations.",
+    "host_name": "www.congress.gov",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]

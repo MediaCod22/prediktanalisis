@@ -1,0 +1,163 @@
+{
+  "report_title": "Отчёт о сборе медиаматериалов по кейсу «Взрывы на газопроводах Северный поток»",
+  "report_date": "2025-01-18",
+  "case_id": "nord_stream",
+  "case_name": "Взрывы на газопроводах «Северный поток»",
+  "date_range": {
+    "start": "2022-09-26",
+    "end": "2025-01-18"
+  },
+  "collection_summary": {
+    "total_materials": 251,
+    "international_materials": 176,
+    "russian_materials": 75,
+    "official_materials": 15
+  },
+  "narrative_stages_distribution": {
+    "N0": {
+      "description": "До события — инфраструктурный проект",
+      "count": 0,
+      "note": "Материалы до сентября 2022 не включены в корпус"
+    },
+    "N1": {
+      "description": "Первые сообщения, необычная ситуация",
+      "count": 43,
+      "international": 38,
+      "russian": 5
+    },
+    "N2": {
+      "description": "Подтверждение взрывов, осознание масштаба",
+      "count": 112,
+      "international": 77,
+      "russian": 35
+    },
+    "N3": {
+      "description": "Персонализация, версии о диверсии",
+      "count": 61,
+      "international": 46,
+      "russian": 15
+    },
+    "N4": {
+      "description": "Системный кризис, множественные версии виновности",
+      "count": 24,
+      "international": 9,
+      "russian": 15
+    },
+    "N5": {
+      "description": "Расследования завершены, нормализация",
+      "count": 11,
+      "international": 6,
+      "russian": 5
+    }
+  },
+  "key_sources": {
+    "international": [
+      {"source": "Wall Street Journal", "count": 10},
+      {"source": "Financial Times", "count": 11},
+      {"source": "Washington Post", "count": 11},
+      {"source": "The Guardian", "count": 10},
+      {"source": "New York Times", "count": 10},
+      {"source": "BBC", "count": 8},
+      {"source": "Der Spiegel", "count": 3},
+      {"source": "Reuters", "count": 4},
+      {"source": "Associated Press", "count": 5},
+      {"source": "Al Jazeera", "count": 3},
+      {"source": "CNN", "count": 2},
+      {"source": "United Nations", "count": 1},
+      {"source": "Bloomberg", "count": 1}
+    ],
+    "russian": [
+      {"source": "ТАСС", "count": 12},
+      {"source": "РИА Новости", "count": 15},
+      {"source": "Интерфакс", "count": 10},
+      {"source": "Коммерсантъ", "count": 8},
+      {"source": "РБК", "count": 10},
+      {"source": "RT", "count": 5},
+      {"source": "Sputnik", "count": 5},
+      {"source": "МИД РФ", "count": 3},
+      {"source": "Кремль", "count": 2},
+      {"source": "Известия", "count": 5}
+    ]
+  },
+  "key_narratives_covered": [
+    {
+      "narrative": "Диверсия организована США",
+      "sources": ["Сеймур Херш", "российские СМИ", "официальные заявления РФ"],
+      "materials_count": 25,
+      "narrative_stage": "N4"
+    },
+    {
+      "narrative": "Украинский след (яхта Andromeda)",
+      "sources": ["Der Spiegel", "NYT", "WSJ", "German investigators"],
+      "materials_count": 20,
+      "narrative_stage": "N4"
+    },
+    {
+      "narrative": "Российская диверсия",
+      "sources": ["Ранние западные СМИ", "украинские источники"],
+      "materials_count": 10,
+      "narrative_stage": "N3"
+    },
+    {
+      "narrative": "Завершение расследований без выводов",
+      "sources": ["Швеция", "Дания", "Германия"],
+      "materials_count": 8,
+      "narrative_stage": "N5"
+    }
+  ],
+  "key_dates_coverage": [
+    {
+      "date": "2022-09-26",
+      "event": "Взрывы на газопроводах",
+      "materials_count": 35
+    },
+    {
+      "date": "2022-09-27",
+      "event": "Официальные заявления Швеции и Дании",
+      "materials_count": 15
+    },
+    {
+      "date": "2022-09-28",
+      "event": "Заявление Путина о международном терроризме",
+      "materials_count": 10
+    },
+    {
+      "date": "2023-02-08",
+      "event": "Статья Сеймура Херша",
+      "materials_count": 12
+    },
+    {
+      "date": "2023-03-00",
+      "event": "Версия об украинском следе, яхта Andromeda",
+      "materials_count": 15
+    },
+    {
+      "date": "2024-02-07",
+      "event": "Швеция завершает расследование",
+      "materials_count": 8
+    },
+    {
+      "date": "2024-02-26",
+      "event": "Дания завершает расследование",
+      "materials_count": 6
+    }
+  ],
+  "gaps_and_recommendations": {
+    "gaps": [
+      "Недостаточно материалов стадии N4 (геополитический конфликт нарративов)",
+      "Мало официальных заявлений западных правительств",
+      "Отсутствуют материалы о технических аспектах диверсии"
+    ],
+    "recommendations": [
+      "Добавить больше материалов о реакции ЕС на взрывы",
+      "Включить заявления Белого дома и Госдепартамента США",
+      "Добавить технические расследования о методе диверсии",
+      "Расширить покрытие немецких СМИ (Die Welt, FAZ)"
+    ]
+  },
+  "file_locations": {
+    "international": "/home/z/my-project/data/raw/nord_stream/international/",
+    "russian": "/home/z/my-project/data/raw/nord_stream/russian/",
+    "scout": "/home/z/my-project/data/raw/nord_stream/scout/scout_nord_stream.json"
+  }
+}

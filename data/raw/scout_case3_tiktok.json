@@ -1,0 +1,61 @@
+{
+  "case_id": "tiktok_regulatory",
+  "case_name": "TikTok / регуляторный конфликт",
+  "case_type": "global",
+  "queries_tested": [
+    "TikTok ban USA regulation crisis 2024 Congress",
+    "TikTok ByteDance divestiture law",
+    "TikTok national security concerns",
+    "TikTok Supreme Court ruling 2025"
+  ],
+  "peak_date": "2024-03-13",
+  "year_window": {"start": "2023-03-13", "end": "2024-03-13"},
+  "three_month_window": {"start": "2023-12-13", "end": "2024-03-13"},
+  "one_month_window": {"start": "2024-02-13", "end": "2024-03-13"},
+  "post_window": {"start": "2024-03-14", "end": "2025-01-22"},
+  "signal_dates": [
+    {"date": "2023-03-23", "type": "congressional", "description": "Слушания CEO TikTok в Конгрессе"},
+    {"date": "2023-09-28", "type": "background", "description": "История регуляторных попыток Трампа"},
+    {"date": "2024-03-05", "type": "escalation", "description": "Комитет Палаты одобрил билль о запрете"},
+    {"date": "2024-03-13", "type": "peak", "description": "Палата представителей приняла билль"},
+    {"date": "2024-04-24", "type": "signed", "description": "Байден подписал закон о продаже/запрете"},
+    {"date": "2024-05-07", "type": "legal", "description": "TikTok подал иск против закона"},
+    {"date": "2025-01-17", "type": "supreme_court", "description": "Верховный суд подтвердил закон"},
+    {"date": "2025-01-19", "type": "ban_start", "description": "Запрет вступил в силу"},
+    {"date": "2025-01-22", "type": "restoration", "description": "Восстановление работы после указа Трампа"}
+  ],
+  "related_entities": [
+    "TikTok Inc.",
+    "ByteDance",
+    "US Congress",
+    "Shou Zi Chew (CEO)",
+    "Joe Biden",
+    "Donald Trump",
+    "China Ministry of Foreign Affairs",
+    "Supreme Court of the United States",
+    "Department of Justice",
+    "Committee on Foreign Investment (CFIUS)"
+  ],
+  "related_terms": [
+    "national security",
+    "data privacy",
+    "foreign adversary",
+    "divestiture",
+    "algorithm",
+    "content moderation",
+    "Chinese Communist Party",
+    "Section 230",
+    "First Amendment",
+    "forced sale"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "До марта 2023 - периодические дискуссии, рост платформы",
+    "N1_weak_problematization": "Март 2023 - слушания в Конгрессе, первые серьёзные угрозы",
+    "N2_sustained_problematization": "2023 - устойчивая проблематизация безопасности",
+    "N3_personalization": "Март 2024 - ответственность ByteDance и Китая",
+    "N4_systemic_crisis": "Апрель 2024 - январь 2025 - законодательный кризис, судебные споры",
+    "N5_resolution": "Январь 2025 - политическое решение, восстановление"
+  },
+  "tone_shift_hypothesis": "Постепенная эскалация негативного тона с марта 2023. Резкий пик негатива в марте 2024. Дихотомия: национальная безопасность vs свобода слова.",
+  "collection_recommendation": "Фокус на март 2023 - январь 2025. Российские медиа: 15-20% (реакция на китайский фактор, цифровая безопасность). Приоритет: технологические и политические издания."
+}

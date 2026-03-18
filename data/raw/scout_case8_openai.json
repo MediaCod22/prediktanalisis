@@ -1,0 +1,60 @@
+{
+  "case_id": "openai_altman",
+  "case_name": "OpenAI / Altman governance crisis",
+  "case_type": "global",
+  "queries_tested": [
+    "OpenAI Sam Altman fired reinstated November 2023 crisis timeline",
+    "OpenAI board Altman ouster Microsoft",
+    "Sam Altman OpenAI governance nonprofit board",
+    "OpenAI employees revolt Altman return"
+  ],
+  "peak_date": "2023-11-17",
+  "year_window": {"start": "2022-11-17", "end": "2023-11-17"},
+  "three_month_window": {"start": "2023-08-17", "end": "2023-11-17"},
+  "one_month_window": {"start": "2023-10-17", "end": "2023-11-17"},
+  "post_window": {"start": "2023-11-18", "end": "2023-12-18"},
+  "signal_dates": [
+    {"date": "2022-11-30", "type": "background", "description": "ChatGPT launch, феноменальный рост"},
+    {"date": "2023-10-01", "type": "tension", "description": "Напряжённость между коммерческим и некоммерческим крылом"},
+    {"date": "2023-11-17", "type": "peak", "description": "Увольнение Алтмана советом директоров"},
+    {"date": "2023-11-17", "type": "resignation", "description": "Грег Брокман покидает компанию"},
+    {"date": "2023-11-18", "type": "interim", "description": "Мира Мурати назначена временно CEO"},
+    {"date": "2023-11-19", "type": "microsoft", "description": "Алтман и Брокман переходят в Microsoft"},
+    {"date": "2023-11-20", "type": "revolt", "description": "700+ сотрудников угрожают уходом"},
+    {"date": "2023-11-22", "type": "resolution", "description": "Алтман восстановлен как CEO"}
+  ],
+  "related_entities": [
+    "Sam Altman",
+    "Greg Brockman",
+    "Ilya Sutskever",
+    "Mira Murati",
+    "OpenAI Board of Directors",
+    "Microsoft (Satya Nadella)",
+    "Helen Toner",
+    "Tasha McCauley",
+    "Adam D'Angelo",
+    "Employees of OpenAI"
+  ],
+  "related_terms": [
+    "governance crisis",
+    "nonprofit board",
+    "AGI safety",
+    "AI alignment",
+    "commercialization",
+    "employee revolt",
+    "fiduciary duty",
+    "mission drift",
+    "for-profit subsidiary",
+    "leadership crisis"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "До ноября 2023 - образец успешной AI-компании",
+    "N1_weak_problematization": "Октябрь 2023 - скрытая напряжённость в совете",
+    "N2_sustained_problematization": "Начало ноября - конфликты по стратегии",
+    "N3_personalization": "17 ноября - персональная ответственность Алтмана vs совета",
+    "N4_systemic_crisis": "17-21 ноября - экзистенциальный кризис компании",
+    "N5_resolution": "22 ноября - восстановление Алтмана, реформа совета"
+  },
+  "tone_shift_hypothesis": "Резкий шок 17 ноября - переход от позитивного тона («успех ChatGPT») к кризисному. Дихотомия нарративов: «предательство совета» vs «некомпетентность Алтмана». Быстрая стабилизация 22 ноября.",
+  "collection_recommendation": "Фокус на октябрь - декабрь 2023. Российские медиа: 10-15% (технологические издания: VC.ru, Хабр). Приоритет: технологическая и бизнес-пресса, инсайдерские источники. Контрольные точки: официальные заявления OpenAI, Microsoft."
+}

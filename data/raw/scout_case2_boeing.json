@@ -1,0 +1,59 @@
+{
+  "case_id": "boeing_crisis",
+  "case_name": "Boeing / кризис доверия и качества",
+  "case_type": "global",
+  "queries_tested": [
+    "Boeing 737 MAX crisis timeline 2023 2024 door plug",
+    "Boeing quality issues safety concerns",
+    "Alaska Airlines Flight 1282 incident",
+    "Boeing FAA oversight investigation"
+  ],
+  "peak_date": "2024-01-05",
+  "year_window": {"start": "2023-01-05", "end": "2024-01-05"},
+  "three_month_window": {"start": "2023-10-05", "end": "2024-01-05"},
+  "one_month_window": {"start": "2023-12-05", "end": "2024-01-05"},
+  "post_window": {"start": "2024-01-06", "end": "2024-04-06"},
+  "signal_dates": [
+    {"date": "2023-01-05", "type": "background", "description": "737 MAX уже восстановлен после кризиса 2019"},
+    {"date": "2023-04-27", "type": "early_signal", "description": "Отчёт о проблемах качества на производстве Boeing"},
+    {"date": "2023-12-08", "type": "warning", "description": "Сообщения о проблемах с качеством сборки"},
+    {"date": "2024-01-05", "type": "peak", "description": "Инцидент Alaska Airlines 1282 - вылет door plug"},
+    {"date": "2024-01-09", "type": "grounding", "description": "FAA приостанавливает полёты 737 MAX 9"},
+    {"date": "2024-03-20", "type": "congressional", "description": "Слушания в Конгрессе, показания CEO"},
+    {"date": "2024-06-13", "type": "systemic", "description": "FAA признаёт недостаточный надзор"}
+  ],
+  "related_entities": [
+    "Boeing Company",
+    "Alaska Airlines",
+    "Federal Aviation Administration (FAA)",
+    "National Transportation Safety Board (NTSB)",
+    "United Airlines",
+    "Dave Calhoun (CEO)",
+    "Spirit AeroSystems",
+    "Department of Justice",
+    "Securities and Exchange Commission",
+    "Air Line Pilots Association"
+  ],
+  "related_terms": [
+    "door plug",
+    "quality control",
+    "safety culture",
+    "whistleblower",
+    "production defects",
+    "aircraft grounding",
+    "MAX 9",
+    "bolt holes",
+    "manufacturing standards",
+    "regulatory oversight"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "До 2023 - восстановление после кризиса MAX 2019, относительная нормализация",
+    "N1_weak_problematization": "2023 - отдельные сообщения о проблемах качества",
+    "N2_sustained_problematization": "Декабрь 2023 - рост сообщений о дефектах",
+    "N3_personalization": "Январь 2024 - ответственность руководства Boeing",
+    "N4_systemic_crisis": "Январь-март 2024 - системный кризис доверия, регуляторный ответ",
+    "N5_resolution": "Июнь-декабрь 2024 - планы исправления, смена руководства"
+  },
+  "tone_shift_hypothesis": "Критический сдвиг тона 5 января 2024 - от нейтрального/сдержанно-критического к резко негативному. Устойчивый негатив до марта 2024. Персонализация вины на уровне CEO и культуры компании.",
+  "collection_recommendation": "Фокус на декабрь 2023 - июнь 2024. Российские медиа: 10-15% (авиационные и деловые издания). Приоритет: авиационная безопасность, корпоративное управление."
+}

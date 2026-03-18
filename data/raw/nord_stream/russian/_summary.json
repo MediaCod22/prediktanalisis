@@ -1,0 +1,43 @@
+{
+  "collection_date": "2025-01-18T12:00:00.000000",
+  "total_articles": 75,
+  "sources": [
+    "tass.ru",
+    "ria.ru",
+    "interfax.ru",
+    "kommersant.ru",
+    "vedomosti.ru",
+    "rbc.ru",
+    "rt.com",
+    "sputniknews.ru",
+    "rg.ru",
+    "iz.ru",
+    "mid.ru",
+    "kremlin.ru",
+    "duma.gov.ru"
+  ],
+  "narrative_stages": {
+    "N1": 5,
+    "N2": 35,
+    "N3": 15,
+    "N4": 15,
+    "N5": 5
+  },
+  "key_narratives": [
+    {
+      "narrative": "Диверсия организована США/Западом",
+      "source": "Россия, прокремлёвские СМИ",
+      "count": 20
+    },
+    {
+      "narrative": "Международный терроризм",
+      "source": "Официальные заявления",
+      "count": 10
+    },
+    {
+      "narrative": "Скептицизм к западным расследованиям",
+      "source": "Российские СМИ",
+      "count": 15
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Skills
+/skills/
+
+# Node modules
+/node_modules/
+
+# Environment
+.env
+.env.local
+*.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+*.log
+
+# Download directory (too large)
+/download/
+
+# Upload directory
+/upload/

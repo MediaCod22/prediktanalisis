@@ -1,0 +1,233 @@
+{
+  "case_id": "nornickel",
+  "case_name": "Nornickel Norilsk Fuel Spill",
+  "case_category": "corporate_crisis",
+  "case_type": "russian",
+  "date_range": {
+    "start": "2020-05-29",
+    "end": "2021-06-30"
+  },
+  "timeline": [
+    {
+      "date": "2014-01-01",
+      "event": "Rostekhnadzor orders Nornickel to clean tank surfaces and restore anticorrosion coating by 2015",
+      "narrative_stage": "N0"
+    },
+    {
+      "date": "2016-10-01",
+      "event": "Rostekhnadzor deadline for non-destructive inspection of tank bottoms - not completed by Nornickel",
+      "narrative_stage": "N0"
+    },
+    {
+      "date": "2020-05-29",
+      "event": "Fuel storage Tank 5 at Nornickel CHPP-3 (Norilsk-Taimyr Energy) collapses, releasing 17,500-21,000 tonnes of diesel into Daldykan and Ambarnaya rivers",
+      "narrative_stage": "N1"
+    },
+    {
+      "date": "2020-05-31",
+      "event": "Incident remains unreported for two days while company attempts containment",
+      "narrative_stage": "N1"
+    },
+    {
+      "date": "2020-06-01",
+      "event": "Russian government agencies learn of spill; Investigative Committee launches criminal investigation",
+      "narrative_stage": "N2"
+    },
+    {
+      "date": "2020-06-02",
+      "event": "Spill reaches Lake Pyasino, threatening Pyasina River and Arctic Ocean",
+      "narrative_stage": "N2"
+    },
+    {
+      "date": "2020-06-03",
+      "event": "Putin holds televised meeting, criticizes local authorities and questions NTEK head Sergei Lipin about delayed reporting",
+      "narrative_stage": "N3"
+    },
+    {
+      "date": "2020-06-04",
+      "event": "President Putin declares federal state of emergency; publicly criticizes Vladimir Potanin for safety failures",
+      "narrative_stage": "N3"
+    },
+    {
+      "date": "2020-06-05",
+      "event": "Head of CHPP-3 boiler-turbine workshop placed in pretrial detention on charges of environmental violations and negligence",
+      "narrative_stage": "N3"
+    },
+    {
+      "date": "2020-06-07",
+      "event": "Rosprirodnadzor employee Vasily Ryabinin quits and goes public as whistleblower after being told to stop investigating",
+      "narrative_stage": "N3"
+    },
+    {
+      "date": "2020-06-10",
+      "event": "Oleg Deripaska (Rusal, 28% stake) publicly calls for management changes at Nornickel, citing spill as evidence of governance failures",
+      "narrative_stage": "N3"
+    },
+    {
+      "date": "2020-06-15",
+      "event": "Prosecutor General orders safety checks at all dangerous installations built on permafrost in Russian Arctic",
+      "narrative_stage": "N4"
+    },
+    {
+      "date": "2020-06-20",
+      "event": "Greenpeace Russia compares potential environmental impact to Exxon Valdez spill",
+      "narrative_stage": "N4"
+    },
+    {
+      "date": "2020-06-25",
+      "event": "Rosprirodnadzor presents claim for 148 billion rubles in environmental damages",
+      "narrative_stage": "N4"
+    },
+    {
+      "date": "2020-07-01",
+      "event": "Shareholder conflict intensifies: Potanin (Interros, 35%) vs Deripaska (Rusal, 28%) over corporate governance and dividend policy",
+      "narrative_stage": "N4"
+    },
+    {
+      "date": "2020-09-01",
+      "event": "Nornickel disputes the damage assessment, challenges fine in court",
+      "narrative_stage": "N4"
+    },
+    {
+      "date": "2020-11-15",
+      "event": "Continued shareholder tensions: Rusal pushes for board changes and governance reforms",
+      "narrative_stage": "N4"
+    },
+    {
+      "date": "2021-02-05",
+      "event": "Russian court orders Nornickel to pay record fine of 146 billion rubles ($2 billion) for environmental damage",
+      "narrative_stage": "N5"
+    },
+    {
+      "date": "2021-03-01",
+      "event": "Nornickel begins cleanup operations, estimated cost 100 billion rubles, timeline 5-10 years",
+      "narrative_stage": "N5"
+    },
+    {
+      "date": "2021-06-30",
+      "event": "One year anniversary: Environmental monitoring continues, corporate governance reforms partially implemented",
+      "narrative_stage": "N5"
+    }
+  ],
+  "key_actors": [
+    "Vladimir Potanin (Interros, Nornickel Chairman, 35% stake)",
+    "Oleg Deripaska (Rusal founder, 28% Nornickel stake)",
+    "Vladimir Putin (Russian President)",
+    "Nornickel (Norilsk Nickel, MMC)",
+    "Rusal (United Company Rusal)",
+    "Sergei Lipin (NTEK head)",
+    "Yevgeny Zinichev (Emergency Situations Minister)",
+    "Vasily Ryabinin (Rosprirodnadzor whistleblower)",
+    "Rostekhnadzor (Federal Service for Environmental, Technological and Nuclear Supervision)",
+    "Investigative Committee of Russia",
+    "Rosprirodnadzor (Federal Service for Supervision of Natural Resources)"
+  ],
+  "key_sources": [
+    "https://en.wikipedia.org/wiki/Norilsk_oil_spill",
+    "https://en.wikipedia.org/wiki/Norilsk_Nickel",
+    "https://en.wikipedia.org/wiki/Vladimir_Potanin",
+    "https://en.wikipedia.org/wiki/Rusal",
+    "BBC Russian Service",
+    "Reuters coverage of spill and fine",
+    "Moscow Times corporate governance reporting",
+    "Greenpeace Russia statements",
+    "Russian Investigative Committee statements",
+    "Kremlin official transcripts"
+  ],
+  "search_queries": [
+    "Nornickel Norilsk diesel spill May 2020",
+    "Норникель Норильск разлив дизеля май 2020",
+    "Nornickel fuel tank collapse CHPP-3",
+    "Потанин Дерипаска конфликт Норникель 2020",
+    "Norilsk oil spill Putin emergency",
+    "Nornickel 146 billion rubles fine",
+    "Норникель штраф 146 миллиардов рублей",
+    "Rusal Deripaska Nornickel shareholder conflict",
+    "Vasily Ryabinin whistleblower Rosprirodnadzor",
+    "Norilsk environmental disaster Arctic",
+    "Норильская экологическая катастрофа",
+    "Daldykan Ambarnaya river contamination",
+    "Nornickel corporate governance crisis 2020-2021",
+    "Permafrost thawing infrastructure failure Russia"
+  ],
+  "expected_volume": "2000-4000 materials (Russian and international sources)",
+  "queries_tested": [
+    "Nornickel Norilsk fuel spill May 2020 Putin emergency",
+    "Норникель Норильск разлив дизеля Потанин Дерипаска",
+    "Norilsk diesel spill environmental disaster fine",
+    "Норникель корпоративный конфликт Русконфликтал"
+  ],
+  "peak_date": "2020-06-04",
+  "year_window": {"start": "2019-06-01", "end": "2020-06-01"},
+  "three_month_window": {"start": "2020-03-01", "end": "2020-06-01"},
+  "one_month_window": {"start": "2020-05-01", "end": "2020-06-01"},
+  "post_window": {"start": "2020-06-02", "end": "2021-06-30"},
+  "signal_dates": [
+    {"date": "2014-01-01", "type": "background", "description": "Rostekhnadzor first safety orders to Nornickel"},
+    {"date": "2016-10-01", "type": "background", "description": "Deadline for tank inspections - missed"},
+    {"date": "2020-05-29", "type": "trigger", "description": "Tank 5 collapse at CHPP-3, massive diesel spill"},
+    {"date": "2020-06-01", "type": "escalation", "description": "Criminal investigation launched"},
+    {"date": "2020-06-03", "type": "peak", "description": "Putin televised meeting, public criticism"},
+    {"date": "2020-06-04", "type": "peak", "description": "Federal state of emergency declared"},
+    {"date": "2020-06-10", "type": "personalization", "description": "Deripaska calls for Potanin management changes"},
+    {"date": "2020-06-25", "type": "systemic", "description": "148 billion ruble damage claim filed"},
+    {"date": "2021-02-05", "type": "resolution", "description": "Court orders record 146 billion ruble fine"},
+    {"date": "2021-06-30", "type": "epilogue", "description": "One year anniversary, ongoing recovery"}
+  ],
+  "related_entities": [
+    "Норникель (Nornickel)",
+    "Интеррос (Interros)",
+    "Русал (Rusal)",
+    "Владимир Потанин",
+    "Олег Дерипаска",
+    "Норильск-Таймыр Энерго (NTEK)",
+    "Ростехнадзор",
+    "Росприроднадзор",
+    "Следственный комитет РФ",
+    "Администрация Норильска",
+    "Красноярский край"
+  ],
+  "related_terms": [
+    "разлив дизельного топлива",
+    "экологическая катастрофа",
+    "корпоративный конфликт",
+    "акционерный спор",
+    "дивидендная политика",
+    "корпоративное управление",
+    "вечная мерзлота",
+    "Арктика",
+    "экологический ущерб",
+    "уголовное дело",
+    "федеральная чрезвычайная ситуация",
+    "промышленная авария"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "2014-2020 (pre-spill) - Routine industrial operations, ignored safety warnings from regulators",
+    "N1_weak_problematization": "May 29-31, 2020 - Initial incident, delayed reporting, internal containment attempts",
+    "N2_sustained_problematization": "June 1-3, 2020 - Public discovery, criminal investigation, spill spreads",
+    "N3_personalization": "June 3-10, 2020 - Putin criticizes Potanin personally, arrests of plant managers, Deripaska attacks Potanin governance",
+    "N4_systemic_crisis": "June-December 2020 - Broad questions about Arctic infrastructure, corporate governance, shareholder conflict, environmental policy",
+    "N5_resolution": "February 2021 onward - Record fine imposed, cleanup begins, governance reforms implemented"
+  },
+  "tone_shift_hypothesis": "Dramatic shift from industrial accident to national crisis within 5 days. Putin's personal criticism of Potanin transformed narrative from environmental disaster to corporate governance failure. Shareholder conflict added layer of elite infighting. Russian media: initial restraint, then extensive coverage after Putin's statement. International media: environmental catastrophe framing, Arctic climate implications.",
+  "collection_recommendation": "Focus on May 29, 2020 - February 2021. Russian sources: 60-70%. Priority: federal news agencies (TASS, RIA, Interfax), business press (RBC, Kommersant, Vedomosti), international wire services. Key events: June 3-4 (Putin statements), June 10 (Deripaska intervention), February 5, 2021 (court fine). Monitor shareholder communications from both Interros and Rusal.",
+  "geographic_scope": {
+    "primary": "Norilsk, Krasnoyarsk Krai, Russia (Arctic Circle)",
+    "affected_rivers": ["Daldykan", "Ambarnaya", "Pyasina"],
+    "affected_lakes": ["Pyasino"],
+    "contamination_area": "350 square kilometers",
+    "spill_volume": "17,500-21,000 tonnes diesel"
+  },
+  "financial_impact": {
+    "cleanup_cost_estimate": "100 billion rubles ($1.5 billion)",
+    "damage_fine": "146 billion rubles ($2 billion)",
+    "emergency_relief": "10 billion rubles ($146 million)",
+    "recovery_timeline": "5-10 years",
+    "stock_impact": "Significant volatility during June 2020"
+  },
+  "shareholder_structure": {
+    "Interros (Potanin)": "35%",
+    "Rusal (Deripaska)": "28%",
+    "Other shareholders": "37%"
+  }
+}

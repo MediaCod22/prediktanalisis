@@ -1,0 +1,60 @@
+{
+  "case_id": "mpox_outbreak",
+  "case_name": "Mpox",
+  "case_type": "global",
+  "queries_tested": [
+    "Mpox monkeypox outbreak 2024 WHO emergency timeline",
+    "Mpox clade I DRC Africa 2024",
+    "WHO PHEIC mpox August 2024",
+    "monkeypox global health emergency"
+  ],
+  "peak_date": "2024-08-14",
+  "year_window": {"start": "2023-08-14", "end": "2024-08-14"},
+  "three_month_window": {"start": "2024-05-14", "end": "2024-08-14"},
+  "one_month_window": {"start": "2024-07-14", "end": "2024-08-14"},
+  "post_window": {"start": "2024-08-15", "end": "2024-11-15"},
+  "signal_dates": [
+    {"date": "2022-05-01", "type": "background", "description": "Первый глобальный всплеск mpox (clade II)"},
+    {"date": "2023-01-01", "type": "ongoing", "description": "Продолжающийся глобальный всплеск"},
+    {"date": "2024-01-01", "type": "early_signal", "description": "Рост случаев clade I в DRC"},
+    {"date": "2024-05-01", "type": "escalation", "description": "Распространение на соседние страны"},
+    {"date": "2024-08-13", "type": "africa_cdc", "description": "Africa CDC объявляет чрезвычайную ситуацию"},
+    {"date": "2024-08-14", "type": "peak", "description": "WHO объявляет PHEIC"},
+    {"date": "2024-08-15", "type": "response", "description": "Начало вакцинации в затронутых регионах"},
+    {"date": "2024-09-02", "type": "sustained", "description": "ECDC отчёт по эпидемиологии"}
+  ],
+  "related_entities": [
+    "World Health Organization (WHO)",
+    "Africa CDC",
+    "Democratic Republic of Congo (DRC)",
+    "Tedros Adhanom Ghebreyesus (WHO DG)",
+    "Burundi, Kenya, Rwanda, Uganda",
+    "CDC (US)",
+    "ECDC (Europe)",
+    "Bavarian Nordic (вакцина)",
+    "Gavi (вакцинальный альянс)",
+    "Nigeria"
+  ],
+  "related_terms": [
+    "clade I",
+    "clade II",
+    "PHEIC",
+    "zoonotic disease",
+    "vaccination campaign",
+    "transmission",
+    "endemic",
+    "outbreak response",
+    "public health emergency",
+    "contact tracing"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "До мая 2022 - эндемичное заболевание в Африке",
+    "N1_weak_problematization": "Май 2022 - первые случаи за пределами Африки",
+    "N2_sustained_problematization": "2022-2023 - глобальный всплеск clade II",
+    "N3_personalization": "2024 - ответственность за мониторинг и ответ",
+    "N4_systemic_crisis": "Август 2024 - новая эластость clade I, PHEIC",
+    "N5_resolution": "Сентябрь-ноябрь 2024 - координированный ответ, вакцинация"
+  },
+  "tone_shift_hypothesis": "Двухфазный кризис: 2022 (clade II) и 2024 (clade I). В 2024 - переход от локальной проблемы к глобальной чрезвычайной ситуации. В медиа: эволюция от научного интереса к кризисному фреймингу.",
+  "collection_recommendation": "Фокус на май - ноябрь 2024. Российские медиа: 10-15% (медицинские и научные издания). Приоритет: медицинские источники, глобальные новостные агентства. Контрольные точки: заявления WHO, Africa CDC."
+}

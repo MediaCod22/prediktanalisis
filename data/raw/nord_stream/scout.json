@@ -1,0 +1,318 @@
+{
+  "case_id": "nord_stream",
+  "case_name": "Nord Stream Pipeline Explosion",
+  "case_category": "energy_crisis",
+  "case_type": "global",
+  "date_range": {
+    "start": "2022-09-26",
+    "end": "2024-12-31"
+  },
+  "peak_date": "2022-09-27",
+  "windows": {
+    "year_window": {"start": "2021-09-26", "end": "2022-09-26"},
+    "three_month_window": {"start": "2022-06-26", "end": "2022-09-26"},
+    "one_month_window": {"start": "2022-08-26", "end": "2022-09-26"},
+    "post_window": {"start": "2022-09-27", "end": "2024-12-31"}
+  },
+  "timeline": [
+    {
+      "date": "2022-09-26",
+      "event": "Explosions detected at Nord Stream 1 and 2 pipelines in Baltic Sea, near Bornholm Island. Three pipelines damaged, massive gas leaks observed.",
+      "narrative_stage": "N1",
+      "event_type": "trigger"
+    },
+    {
+      "date": "2022-09-27",
+      "event": "International media coverage begins. Seismic stations detect explosions equivalent to 100kg TNT. Sweden and Denmark restrict area.",
+      "narrative_stage": "N2",
+      "event_type": "peak"
+    },
+    {
+      "date": "2022-09-28",
+      "event": "European leaders call it 'sabotage'. Poland and Ukraine blame Russia. Russian Embassy calls accusations 'stupid'.",
+      "narrative_stage": "N3",
+      "event_type": "blame_game_start"
+    },
+    {
+      "date": "2022-09-29",
+      "event": "Sweden opens preliminary investigation into sabotage. Germany joins investigation.",
+      "narrative_stage": "N3",
+      "event_type": "investigation_start"
+    },
+    {
+      "date": "2022-10-03",
+      "event": "EU calls for protection of critical infrastructure. NATO states concern about vulnerability.",
+      "narrative_stage": "N4",
+      "event_type": "systemic_implications"
+    },
+    {
+      "date": "2022-10-08",
+      "event": "Putin calls pipeline explosions 'an act of international terrorism'.",
+      "narrative_stage": "N3",
+      "event_type": "russian_statement"
+    },
+    {
+      "date": "2022-10-18",
+      "event": "Russian Defense Ministry claims British Navy involvement. UK denies.",
+      "narrative_stage": "N3",
+      "event_type": "counter_accusation"
+    },
+    {
+      "date": "2022-11-01",
+      "event": "Sweden determines explosives were used. Investigation continues.",
+      "narrative_stage": "N2",
+      "event_type": "forensic_finding"
+    },
+    {
+      "date": "2022-11-18",
+      "event": "Russian UN Security Council resolution for international investigation rejected.",
+      "narrative_stage": "N3",
+      "event_type": "diplomatic"
+    },
+    {
+      "date": "2023-02-08",
+      "event": "Pulitzer-winning journalist Seymour Hersh publishes investigation claiming US Navy involvement under President Biden's direction. Major media coverage globally.",
+      "narrative_stage": "N3",
+      "event_type": "alternative_narrative"
+    },
+    {
+      "date": "2023-02-10",
+      "event": "White House dismisses Hersh report as 'completely and utterly false'. Russia calls for international investigation.",
+      "narrative_stage": "N3",
+      "event_type": "official_denial"
+    },
+    {
+      "date": "2023-03-07",
+      "event": "New York Times reports US intelligence suggests pro-Ukrainian group may be responsible. New narrative shift.",
+      "narrative_stage": "N3",
+      "event_type": "narrative_shift"
+    },
+    {
+      "date": "2023-03-08",
+      "event": "German media (ARD, Die Zeit, Sueddeutsche Zeitung) report investigation focuses on yacht 'Andromeda' and six-person crew.",
+      "narrative_stage": "N3",
+      "event_type": "investigation_development"
+    },
+    {
+      "date": "2023-03-21",
+      "event": "Putin welcomes Chinese President Xi to Moscow, discusses Nord Stream investigation.",
+      "narrative_stage": "N3",
+      "event_type": "diplomatic"
+    },
+    {
+      "date": "2023-04-06",
+      "event": "Ukrainian President Zelensky denies Ukrainian involvement, calls accusations 'total nonsense'.",
+      "narrative_stage": "N3",
+      "event_type": "official_denial"
+    },
+    {
+      "date": "2023-04-25",
+      "event": "UN Secretary-General Guterres calls for transparent investigation.",
+      "narrative_stage": "N2",
+      "event_type": "international_call"
+    },
+    {
+      "date": "2023-06-20",
+      "event": "Nord Stream AG estimates repairs could cost 500 million euros minimum.",
+      "narrative_stage": "N4",
+      "event_type": "economic_impact"
+    },
+    {
+      "date": "2023-06-27",
+      "event": "The Wall Street Journal reports detailed investigation pointing to Ukrainian-connected group.",
+      "narrative_stage": "N3",
+      "event_type": "media_development"
+    },
+    {
+      "date": "2023-08-23",
+      "event": "Swedish prosecutors confirm traces of explosives found at blast sites.",
+      "narrative_stage": "N2",
+      "event_type": "forensic_finding"
+    },
+    {
+      "date": "2023-09-26",
+      "event": "First anniversary of explosions. Russia marks with renewed calls for international investigation.",
+      "narrative_stage": "N3",
+      "event_type": "anniversary"
+    },
+    {
+      "date": "2023-10-04",
+      "event": "German investigators search vessel 'Andromeda'. Investigators examine route from Rostock.",
+      "narrative_stage": "N2",
+      "event_type": "investigation_development"
+    },
+    {
+      "date": "2023-11-07",
+      "event": "Sweden closes its investigation, transfers evidence to Germany. Cites lack of jurisdiction.",
+      "narrative_stage": "N2",
+      "event_type": "investigation_development"
+    },
+    {
+      "date": "2023-11-30",
+      "event": "Denmark closes its investigation, concludes deliberate sabotage but no grounds for criminal case.",
+      "narrative_stage": "N2",
+      "event_type": "investigation_development"
+    },
+    {
+      "date": "2023-12-13",
+      "event": "European Parliament calls for independent international investigation.",
+      "narrative_stage": "N2",
+      "event_type": "diplomatic"
+    },
+    {
+      "date": "2024-01-15",
+      "event": "German prosecutors say investigation ongoing, no suspects formally charged.",
+      "narrative_stage": "N2",
+      "event_type": "investigation_status"
+    },
+    {
+      "date": "2024-02-08",
+      "event": "Media reports German investigators focusing on Ukrainian diving instructor 'Volodymyr Z' and others.",
+      "narrative_stage": "N3",
+      "event_type": "suspect_identification"
+    },
+    {
+      "date": "2024-02-22",
+      "event": "German investigators reportedly identify suspect yacht and crew, search premises in Poland.",
+      "narrative_stage": "N3",
+      "event_type": "investigation_development"
+    },
+    {
+      "date": "2024-03-06",
+      "event": "Ukraine government denies any involvement in Nord Stream sabotage.",
+      "narrative_stage": "N3",
+      "event_type": "official_denial"
+    },
+    {
+      "date": "2024-04-01",
+      "event": "Swedish prosecutor says evidence points to a group with ties to Ukraine.",
+      "narrative_stage": "N3",
+      "event_type": "investigation_finding"
+    },
+    {
+      "date": "2024-05-06",
+      "event": "Nord Stream 2 AG files lawsuit against German government for exemption from sanctions.",
+      "narrative_stage": "N4",
+      "event_type": "legal"
+    },
+    {
+      "date": "2024-06-10",
+      "event": "German investigators examine potential involvement of Ukrainian businessman.",
+      "narrative_stage": "N3",
+      "event_type": "investigation_development"
+    },
+    {
+      "date": "2024-07-01",
+      "event": "Wall Street Journal publishes detailed reconstruction of sabotage operation.",
+      "narrative_stage": "N3",
+      "event_type": "media_development"
+    },
+    {
+      "date": "2024-08-14",
+      "event": "German prosecutor issues arrest warrant for Ukrainian suspect.",
+      "narrative_stage": "N3",
+      "event_type": "arrest_warrant"
+    },
+    {
+      "date": "2024-09-26",
+      "event": "Second anniversary of explosions. German investigation continues, no prosecutions yet.",
+      "narrative_stage": "N5",
+      "event_type": "anniversary"
+    },
+    {
+      "date": "2024-10-30",
+      "event": "Polish prosecutors say they cooperated with German investigation, no suspects found in Poland.",
+      "narrative_stage": "N2",
+      "event_type": "investigation_status"
+    },
+    {
+      "date": "2024-11-15",
+      "event": "Russia maintains accusations against US and UK, calls for UN investigation.",
+      "narrative_stage": "N3",
+      "event_type": "diplomatic"
+    }
+  ],
+  "key_actors": [
+    "Russia / Gazprom / Nord Stream AG",
+    "Germany (investigating authority)",
+    "Sweden (initial investigation, closed Nov 2023)",
+    "Denmark (initial investigation, closed Nov 2023)",
+    "United States (denied involvement)",
+    "Ukraine (denied involvement)",
+    "Poland (potential transit point)",
+    "United Kingdom (accused by Russia)",
+    "NATO",
+    "European Union",
+    "Seymour Hersh (journalist)",
+    "New York Times",
+    "Wall Street Journal",
+    "United Nations"
+  ],
+  "key_sources": [
+    "Swedish Prosecution Authority",
+    "Danish Police and Defence Intelligence Service",
+    "German Federal Prosecutor General (Bundesanwaltschaft)",
+    "Nord Stream AG",
+    "Gazprom",
+    "Kremlin statements",
+    "White House press briefings",
+    "UN Security Council records",
+    "Seymour Hersh blog (substack)",
+    "New York Times",
+    "Wall Street Journal",
+    "Sueddeutsche Zeitung",
+    "Der Spiegel",
+    "ARD (German public broadcaster)",
+    "Die Zeit",
+    "Reuters",
+    "Associated Press"
+  ],
+  "search_queries": [
+    "Nord Stream pipeline explosion September 2022",
+    "Nord Stream sabotage investigation timeline",
+    "Nord Stream Hersh investigation February 2023",
+    "Nord Stream Ukraine involvement theory",
+    "Nord Stream Andromeda yacht Germany",
+    "Nord Stream Sweden Denmark investigation closed",
+    "Nord Stream Russian accusations US UK",
+    "Nord Stream arrests 2024 Germany",
+    "Северный поток взрыв диверсия расследование",
+    "Nord Stream pipeline explosions Baltic Sea Bornholm",
+    "Nord Stream gas leak seismic detection",
+    "Nord Stream explosion suspects Ukrainian",
+    "Gazprom Nord Stream repair cost",
+    "Nord Stream UN Security Council resolution"
+  ],
+  "related_terms": [
+    "pipeline sabotage",
+    "energy infrastructure attack",
+    "Baltic Sea security",
+    "natural gas disruption",
+    "Europe energy crisis",
+    "Russia-Germany energy relations",
+    "submarine explosions",
+    "seismic activity detection",
+    "maritime sabotage",
+    "critical infrastructure protection",
+    "hybrid warfare",
+    "energy weaponization"
+  ],
+  "narrative_trajectory": {
+    "N0_normal": "Pre-September 2022 - Nord Stream as operational/inactive pipeline infrastructure amid Russia-Ukraine conflict. Reduced gas flows due to sanctions/disputes.",
+    "N1_weak_problematization": "September 26, 2022 - Initial explosions detected, first signs of unusual incident.",
+    "N2_sustained_problematization": "September-October 2022 - Confirmed sabotage, international investigations launched, ongoing media attention.",
+    "N3_personalization": "October 2022 - February 2023 - Multiple blame narratives: Russia, USA (Hersh), Ukraine, UK. Competing theories dominate coverage.",
+    "N4_systemic_crisis": "September 2022 - March 2023 - Broader implications for European energy security, critical infrastructure vulnerability, NATO-Russia tensions.",
+    "N5_resolution": "2023-2024 - Investigations wind down (Sweden, Denmark close), Germany continues. No definitive attribution accepted internationally. Case remains unresolved."
+  },
+  "tone_shift_hypothesis": "Initial shock and blame directed at Russia (September-October 2022). Major narrative shift after Hersh report (February 2023) introduces alternative theories. Sustained uncertainty as investigations fail to produce conclusive attribution. Russian media maintains accusatory tone toward US/UK; Western media increasingly cautious.",
+  "expected_volume": "high - 5000-10000+ articles globally",
+  "geographic_focus": "Germany, Russia, Sweden, Denmark, Poland, Ukraine, USA, UK, EU",
+  "language_coverage": {
+    "english": "60%",
+    "german": "15%",
+    "russian": "15%",
+    "other_european": "10%"
+  },
+  "collection_recommendation": "Focus on September 2022 - February 2024. Key narrative turning points: initial explosions (Sep 2022), Hersh report (Feb 2023), NY Times Ukraine theory (Mar 2023), investigation closures (Nov-Dec 2023), arrest warrants (Aug 2024). Russian media: 15-20%. Priority: major wire services, German media, Russian state media, investigative journalism outlets."
+}

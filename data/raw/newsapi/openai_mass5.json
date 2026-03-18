@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://openai.com/safety",
+    "name": "Safety & responsibility",
+    "snippet": "Building safe AI isn't one and done. Every day is a chance to make things better. And every step helps anticipate, evaluate, and prevent risk. Read more",
+    "host_name": "openai.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openai.com/index/openai-raising-concerns-policy",
+    "name": "OpenAI's Raising Concerns Policy",
+    "snippet": "12 Jan 2026 — In April 2024 , we introduced a new 24/7 Integrity Line, which allows OpenAI employees to anonymously raise concerns if they prefer not to use ... Read more",
+    "host_name": "openai.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+    "name": "OpenAI has deleted the word 'safely' from its mission",
+    "snippet": "Tracing ... Read more",
+    "host_name": "theconversation.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openai.com/index/update-on-safety-and-security-practices",
+    "name": "An update on our safety & security practices",
+    "snippet": "16 Sept 2024 — The Safety and Security Committee will become an independent Board oversight committee focused on safety and security , to be chaired by Zico Kolter. Read more",
+    "host_name": "openai.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.edpb.europa.eu/system/files/2024-05/edpb_20240523_report_chatgpt_taskforce_en.pdf",
+    "name": "Report of the work undertaken by the ChatGPT Taskforce",
+    "snippet": "23 May 2024 — In the Plenary meeting of the EDPB on 16 January 2024 , the decision was made to specify the mandate of the task force and to publish a report, ... Read more 14 pages",
+    "host_name": "www.edpb.europa.eu",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.theguardian.com/technology/article/2024/may/18/openai-putting-shiny-products-above-safety-says-departing-researcher",
+    "name": "OpenAI putting 'shiny products' above safety, says",
+    "snippet": "18 May 2024 — A former senior employee at OpenAI has said the company behind ChatGPT is prioritising “shiny products” over safety , revealing that he quit. Read more",
+    "host_name": "www.theguardian.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://openai.com/safety/how-we-think-about-safety-alignment",
+    "name": "How we think about safety and alignment",
+    "snippet": "In the continuous world view, deployment aids rather than opposes safety . These diverging views of the world lead to different interpretations of what is safe . Read more",
+    "host_name": "openai.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.npr.org/2024/05/29/nx-s1-4984104/openai-faces-new-scrutiny-on-ai-safety",
+    "name": "OpenAI faces new scrutiny on AI safety",
+    "snippet": "29 May 2024 — ChatGPT-maker OpenAI is confronting fresh questions about how seriously it treats AI safety . Former employees and others say the company should not be trusted ... Read more",
+    "host_name": "www.npr.org",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.nacdonline.org/all-governance/governance-resources/directorship-magazine/online-exclusives/2024/January2024/OpenAI-governance-crisis-early-tech-company-lessons",
+    "name": "The OpenAI Governance Crisis: Early Tech Company",
+    "snippet": "25 Jan 2024 — OpenAI's public governance meltdown dramatically highlights several underlying, intertwined, and urgent technology governance challenges. Read more",
+    "host_name": "www.nacdonline.org",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.wiz.io/academy/ai-security/chatgpt-security",
+    "name": "ChatGPT Security for Enterprises: Risks and Best Practices",
+    "snippet": "1. Keep ChatGPT updated · 2. Implement zero-trust security access · 3. Limit PII and IP data · 4. Read more",
+    "host_name": "www.wiz.io",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
